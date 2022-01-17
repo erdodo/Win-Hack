@@ -1,6 +1,4 @@
 # Win-10-etkinleştirme
-Windows 10 Ekinleştirme
-Yukarıda da değindiğim gibi bir KMS sunucusuna bağlanacağız.Bunu yapabilmemiz için CMD(Komut İstemin)i açmamız gerekecektir.İsterseniz işlemlere başlayalım.Çok kısa bir işlem ile bedava Windows 10 Pro Ekinleştirme yapabileceksiniz.
 
 - Öncelikle başlat menüsüne tıklayarak CMD yazın.Ardından çıkan “Komut İstemi” simgesine farenizin sağ tuşuyla basarak “Yönetici Olarak Çalıştır” deyin.
 - Açılan pencerede slmgr /ipk komutunu yapıştırın ve enter yapın.(Kopyaladıktan sonra Komut İstemine giderek sağ tıklamanız yeterlidir.)
