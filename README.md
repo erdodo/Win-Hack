@@ -20,3 +20,6 @@
 - Microsoft -> Windows -> TextServicesFramework klasörüne gidiyoruz
 - Görev al butonuna basarak MsCtfMonitor.xml dosyasını seçip tamam diyoruz
 - Başlat butonuna bastığımızda çalışmaya başlayacak
+
+
+* Sorumluluk sizde
