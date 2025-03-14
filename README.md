@@ -13,7 +13,7 @@
 - Education – NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 
 # Windows 11
-`cscript slmgr.vbs /ipk "KEY"`
+```cscript slmgr.vbs /ipk "KEY"```
 cscript slmgr.vbs /skms kms.lotro.cc
 cscript slmgr.vbs -ato,
 
