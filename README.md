@@ -13,9 +13,11 @@
 - Education – NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 
 # Windows 11
+Terminal yönetici olarak başlatılmalı!
 - `cscript slmgr.vbs /ipk "KEY"`
 - `cscript slmgr.vbs /skms kms.lotro.cc`
 - `cscript slmgr.vbs -ato`
+----------
 
 - Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 - Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
